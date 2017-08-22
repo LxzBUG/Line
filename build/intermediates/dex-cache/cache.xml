@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_199f68861734d4220fb63f894e3c7e52a848aacd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.yanyusong.y_divideritemdecoration\y_divideritemdecoration\2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="491d566ebdc3e571ea39759f8c718f930d4b15a8">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.yanyusong.y_divideritemdecoration-y_divideritemdecoration-2.0_a75ed10cbfe47ac78f595b8e22d0dd7b9d0774e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_5d61d310544ea3843a981708fa436af67062fe5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioSoft\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d0e99c3ae2b316bcf8a05c358bc2c6a2deb66b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_c97c8bafeb15cd2e03528b2a50ac2eedcf008774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_275c840b77fd9bb973f06289b31bcca6765b0566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_468efbc13233cc514e6814545ce144406827c341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_9ba4673463f6941bc35d8dcbb58ad2d6bbb1d767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_a7e2369224eb14e165c7ffd8ae496d5f079548b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_1af34e1f3eac90de9ef719526f5d0c88913cbaf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_9f8ebdfc85a9125433fb7de6b97844c5f15148e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_f41c3ac6e36cbff77a60b607cde15992db8c0140.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.github.CymChad\BaseRecyclerViewAdapterHelper\2.9.18\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f06a1dd61d388f6ccf20277b7f9255bf50b48f3a">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.github.CymChad-BaseRecyclerViewAdapterHelper-2.9.18_77306c15b9aa74458d3eacda75642e3f83fbde4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Xiao_Bailong\Desktop\Line-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_716ecbc335721eb2da9f6ffa4f2a68ff9d9abd29.jar" />
+    </item>
+
+</items>
