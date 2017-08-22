@@ -23,5 +23,4 @@ public class MAdapter extends BaseMultiItemQuickAdapter<Data, BaseViewHolder> {
             helper.setBackgroundRes(R.id.tv, R.drawable.e);
         }
     }
-
 }
